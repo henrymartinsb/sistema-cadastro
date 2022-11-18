@@ -1,23 +1,16 @@
-# challengeAH
+# Sistema de Cadastro de Usuários
 
-1. Clone this repository* 
-2. Install requirements 
-3. Run the project
+1. Clone o repositótio* 
+2. Instale o requirements 
+3. Roda o projeto
 
 ## Install requirements.txt
 pip install -r requirements.txt
 
-## ADD .flaskenv
-### In .flaskenv add:
-```
-FLASK_ENV= development
-FLASK_APP = main.py
-```
-
-## Tecnologies
+## Tecnologias
 - Python
 - Flask
 - Javascript
 - HTML/CSS
-- Vue
-- JSON"# sistema-cadastro" 
+- Bootstrap
+- JSON 
