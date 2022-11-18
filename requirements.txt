@@ -12,4 +12,3 @@ python-dotenv==0.21.0
 virtualenv==20.16.7
 virtualenv-clone==0.5.7
 Werkzeug==2.2.2
-Flask==2.2.2
