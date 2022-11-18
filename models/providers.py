@@ -5,7 +5,7 @@ def providers_list():
             "user": "Aline Pires",
             "cpf": "102.312.640-03",
             "nascimento": "10/01/1978",
-            "contato": "(51) 99157-8055"
+            "contato": "(51) 99157-8054"
         },
         {
             "id": 128720,

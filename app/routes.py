@@ -73,7 +73,4 @@ def delete(id):
     if index is not None:
         del providers_list[index]
     return redirect('/providers')
-
-
-if __name__ == "__main__":
-    app.run(debug=False, host='0.0.0.0')
+    
